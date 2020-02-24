@@ -1,0 +1,43 @@
+/* ID's  */
+#container {
+    display: flex;
+}
+
+/* Class  */
+
+.elements {
+    text-align: center;
+    margin: 2em;
+}
+
+
+.ol1 {
+    text-align: left;
+}
+
+.div1 {
+    margin: 8vh;
+    padding: 4vh;
+    background: #5a6268;
+}
+
+
+
+/*  Main  */
+
+body {
+    background: #95999c;
+}
+
+h1 {
+    font-family: Impact;
+    border: 4px #5a6268 inset;
+    border-width: 1vw;
+    border-radius: 12px;
+    text-align: center;
+    padding : 6vh;
+}
+
+li {
+    align-content: center;
+}
